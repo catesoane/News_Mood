@@ -209,7 +209,7 @@ plt.show()
 ```
 
 
-![png](News_Mood_files/News_Mood_4_0.png)
+![png](Sentiment_Analysis_Of_Tweets.png)
 
 
 
@@ -258,5 +258,5 @@ plt.show()
 ```
 
 
-![png](News_Mood_files/News_Mood_6_0.png)
+![png](Overall_Sentiment_Of_Media_Tweets.png)
 
